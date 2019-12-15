@@ -1,0 +1,11 @@
+/c3p0-config.xml
+/client/
+/dao/
+/domain/
+/exception/
+/filter/
+/log4j.properties
+/manager/
+/service/
+/tag/
+/utils/
